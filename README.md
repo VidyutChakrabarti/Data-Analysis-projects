@@ -4,4 +4,5 @@ A Python-based Jupyter Notebook designed for analyzing RHESSI (Reuven Ramaty Hig
 
 This tool is suitable for solar physics research, enabling efficient exploration and interpretation of high-energy solar phenomena.
 
-[Open in Colab](https://colab.research.google.com/github/VidyutChakrabarti/Rhessi-data-analysis/blob/main/SOLAR_FLARE_DATA_ANALYSIS.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VidyutChakrabarti/Rhessi-data-analysis/blob/main/SOLAR_FLARE_DATA_ANALYSIS.ipynb)
+
