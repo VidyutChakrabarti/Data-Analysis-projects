@@ -4,7 +4,7 @@ A Python-based Jupyter Notebook designed for analyzing RHESSI (Reuven Ramaty Hig
 
 This tool is suitable for solar physics research, enabling efficient exploration and interpretation of high-energy solar phenomena.
 
-
+<div align="center">
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td style="padding-right: 30px;">
@@ -18,6 +18,7 @@ This tool is suitable for solar physics research, enabling efficient exploration
       </td>
     </tr>
 </table>
+</div>
 
 ### Graphs at a glance: 
 
