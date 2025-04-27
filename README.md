@@ -6,6 +6,8 @@ The current list includes:
 1. RHESSI - Data analysis and visualization
 A study on the RHESSI data from NASA to interpret certain conclusions based on visualizations generated.
 
+Inferences and detailed explaination of data can be found within the notebook.
+
 Preview: 
 <div align="center">
 <table border="1" cellspacing="15" cellpadding="15">
