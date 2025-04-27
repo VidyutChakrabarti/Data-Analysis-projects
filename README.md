@@ -36,4 +36,20 @@ Data contains 5 years of store-item sales data, for 50 different items at 10 dif
 Build an ARIMA model.
 Use SMAPE metric for model evaluation
 
-Please relocate to the desired folder for getting the full description of the specific project.
+Preview: 
+<div align="center">
+<table border="1" cellspacing="15" cellpadding="15">
+  <tr>
+    <td align="center">
+      <img src="Sales prediction using ARIMA/assets/train.png" alt="Sun" width="350"/><br>
+      <p>Explore the training data</p>
+    </td>
+   <td align="center">
+         <img src="Sales prediction using ARIMA/assets/predict.png" alt="Sun" width="350"/><br>
+          <p>See the predictions properly</p>
+       </td>
+  </tr>
+  </table>
+  </div>
+
+  #### Please relocate to the desired folder for getting the full description of the specific project.
