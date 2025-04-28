@@ -14,10 +14,6 @@ store - Store ID
 item - Item ID
 sales - Number of items sold at a particular store on a particular date.
 
-Data-size: 913000 rows in train.csv
-Algorithm takes approx 2 hours to train on 1 CPU Core.
-
-
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
@@ -33,6 +29,11 @@ Algorithm takes approx 2 hours to train on 1 CPU Core.
     </tr>
 </table>
 </div>
+
+Data-size: 913000 rows in train.csv<br/>
+Algorithm takes approx 2 hours to train on 1 CPU Core.<br/>
+To test the results: upload the predictions.csv in colab and run the last cell to visualize the trends in the predictions output.<br/>
+Approx SMAPE over all store-item sets comes up to be: 18%
 
 ### Graphs at a glance: 
 
