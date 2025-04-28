@@ -14,6 +14,9 @@ store - Store ID
 item - Item ID
 sales - Number of items sold at a particular store on a particular date.
 
+Data-size: 913000 rows in train.csv
+Algorithm takes approx 2 hours to train on 1 CPU Core.
+
 
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="0">
