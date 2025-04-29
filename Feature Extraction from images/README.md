@@ -5,6 +5,22 @@
 
 The goal is to create a machine learning model that extracts entity values from images. This capability is crucial in fields like healthcare, e-commerce, and content moderation, where precise product information is vital. As digital marketplaces expand, many products lack detailed textual descriptions, making it essential to obtain key details directly from images. These images provide important information such as weight, volume, voltage, wattage, dimensions, and many more, which are critical for digital stores.
 
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="padding-right: 30px;">
+        <img src="assets/logo.jpeg" alt="Feature logo" width="280"/>
+      </td>
+      <td style="vertical-align: middle; font-size: 12px; font-weight: bold;">
+        Access Solution<br><br>
+        <a href="https://colab.research.google.com/drive/1QQcWvxkdcbSioluAJLTUnKrisKt52mTy?usp=sharing">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+        </a>
+      </td>
+    </tr>
+</table>
+</div>
+
 ### Data Description: 
 
 The dataset consists of the following columns: 
