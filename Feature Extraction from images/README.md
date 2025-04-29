@@ -1,5 +1,5 @@
 ## ML Challenge Problem Statement
-**Note:** This notebook was part of the Amazon ML Challenge 2024, organized in unstop.
+**Note:** This notebook was part of the Amazon ML Challenge 2024, organized in Unstop.
 
 ### Feature Extraction from Images
 
@@ -39,6 +39,16 @@ The output file is a csv with 2 columns:
 2. **dataset/test.csv**: Test file without output labels (`entity_value`). Generate predictions using your model/solution on this file's data.
 3. **dataset/sample_test.csv**: Sample test input file.
 4. **dataset/sample_test_out.csv**: Sample outputs for sample_test.csv.
+
+### Dataset Download
+Instructions for proper download of images form train and test are given here: 
+<p align="center">
+  <a href="https://github.com/VidyutChakrabarti/Data-Analysis-projects/tree/main/Feature%20Extraction%20from%20images/dataset/README.md" target="_blank">
+    <img src="https://img.shields.io/badge/Dataset%20Download%20Instructions-Click%20Here-purple?style=for-the-badge" alt="Dataset Instructions Button"/>
+  </a>
+</p>
+
+
 
 ### Constraints
 
