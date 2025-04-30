@@ -16,10 +16,9 @@ The goal is to create a machine learning model that extracts entity values from 
         <a href="https://colab.research.google.com/drive/1QQcWvxkdcbSioluAJLTUnKrisKt52mTy?usp=sharing">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
         </a><br><br>
-        <a href="https://github.com/VidyutChakrabarti/Data-ML-projects/tree/main/Feature%20Extraction%20from%20images/src/README.md" 
-           style="display: inline-block; padding: 6px 12px; background-color:rgb(255, 89, 139); color: white; text-decoration: none; border-radius: 4px; font-size: 12px;">
-          Understand the solution
-        </a>
+        <a href="https://github.com/VidyutChakrabarti/Data-ML-projects/tree/main/Feature%20Extraction%20from%20images/src/README.md" target="_blank">
+    <img src="https://img.shields.io/badge/Understand%20the%20Solution-Click%20Here-brightgreen?style=for-the-badge" alt="Understand the Solution Button"/>
+  </a><br>
       </td>
     </tr>
   </table>

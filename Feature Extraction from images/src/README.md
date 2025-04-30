@@ -11,15 +11,15 @@
 
 3. Image OCR & Unit Detection:
 
-**fetch_and_ocr_from_csv():**
+- **fetch_and_ocr_from_csv():**
 
-- Loads image links and entity names from a CSV.
+    - Loads image links and entity names from a CSV.
 
-- Performs OCR using EasyOCR with multiple image rotations and preprocessing to improve accuracy.
+    - Performs OCR using EasyOCR with multiple image rotations and preprocessing to improve accuracy.
 
-- Aggregates detected text, processes it, and extracts relevant measurements.
+    - Aggregates detected text, processes it, and extracts relevant measurements.
 
-- Displays image and prints extracted details for verification.
+    - Displays image and prints extracted details for verification.
 
 ### Flow:
 - Load and sample rows from CSV.
